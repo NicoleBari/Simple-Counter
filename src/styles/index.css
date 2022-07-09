@@ -10,3 +10,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.bigCounter{
+    
+    text-align: center;
+    padding-top:150px ;
+    padding-bottom: 150px;
+    background-color: #FCF6BD;
+    
+}
+.bigCounter div{
+    display: inline-block;
+    font-size: 230px;
+    line-height: 250px;
+    color: white;
+    padding: 27px;
+    margin: 10px;    
+}
+.alien{
+    width: 150px;
+    height: 180px;
+    padding-bottom:50px ;
+   
+
+}
